@@ -14,7 +14,7 @@ function getDiceHtml(diceCount) {
 const lightSide = {
     elementId: "light-side",
     name: "rebellion",
-    avatar: "/images/rey.png",
+    avatar: "images/rey.png",
     health: 60,
     diceCount: 3
 }
@@ -22,7 +22,7 @@ const lightSide = {
 const darkSide = {
     elementId: "dark-side",
     name: "first order",
-    avatar: "/images/stormtrooper.jpg",
+    avatar: "images/stormtrooper.jpg",
     health: 10,
     diceCount: 1
 }
